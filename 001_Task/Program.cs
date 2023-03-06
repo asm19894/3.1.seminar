@@ -6,6 +6,7 @@
 // -3 -> 9
 // -7 -> 49
 
-int number = 4;
+
+int number = Convert.ToInt32(Console.ReadLine());
 int result = number * number;
 Console.WriteLine(result);
