@@ -16,3 +16,9 @@ else
 {
     Console.WriteLine("This is folce");
 }
+
+// если  в решении всего одно условие можно не использовать фигурные скобки
+// if(numberA == numberB * numberB)
+// Console.WriteLine("This is true");  
+// else
+// Console.WriteLine("This is folce");
